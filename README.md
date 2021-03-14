@@ -1,4 +1,4 @@
-# Fourier-Transformer
+# Spectrogram
 
 FourierTransform.cc : 
 
